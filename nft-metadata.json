@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Maltipoo"
+    },
+    {
+      "trait_type": "Strength",
+      "value": "Medium"
+    }
+  ],
+  "description": "The world's most Special NFT.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTpaJRhRHjSpa2bqbCcwSWK5Aw9zcDr7bkRxC1pccAj7s",
+  "name": "Special NFT"
+}
